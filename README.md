@@ -1,8 +1,8 @@
 
-Personal Portfolio
+**Personal Portfolio**
 This personal portfolio project is a showcase of my skills, services, and achievements as a web designer and front-end developer. The portfolio is built using HTML, CSS, and JavaScript, with an emphasis on responsiveness, interactivity, and modern design principles.
 
-Project Overview
+**Project Overview**
 The portfolio consists of several sections, each designed to highlight different aspects of my work:
 
 Header Section: This section includes a dynamic introduction with my name, title, and a brief description of what I do. The header is designed to grab attention with a clean layout and intuitive navigation.
@@ -21,7 +21,7 @@ FAQ: A collapsible accordion section styled similarly to Netflix's FAQ, providin
 
 Footer: The footer includes my name and title ("Web Designer"), a brief tagline related to the portfolio, navigation links (Home, Services, Contact Us), and social media icons with hover effects. The footer also features a copyright line to ensure the content is protected.
 
-Unique Features
+**Unique Features**
 Interactive 3D Elements: The use of 3D icons and models adds a layer of interactivity and visual appeal, making the portfolio stand out.
 Responsive Design: The entire portfolio is designed to be fully responsive, ensuring a seamless experience across all devices.
 Advanced CSS Techniques: The project incorporates modern CSS techniques, including Flexbox, Grid, and CSS variables, to create a dynamic and flexible layout.
